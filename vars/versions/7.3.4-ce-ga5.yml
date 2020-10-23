@@ -1,0 +1,12 @@
+---
+# Predefined variables for the download and installation of the Liferay 7.3.4 Community Edition
+
+# The base URL for the download of the Tomcat bundle
+liferay_download_base_url: https://sourceforge.net/projects/lportal/files/Liferay%20Portal/7.3.4%20GA5/
+
+# The file name and checksum of the Tomcat bundle archive
+liferay_bundle_archive: liferay-ce-portal-tomcat-7.3.4-ga5-20200811154319029.tar.gz
+liferay_bundle_archive_shasum: ae68308e81e49220e8f47c2819d38605f81b921737f3fa9a3ea25ca2400e76d4
+
+# The version of the Tomcat that is bundled in the current Liferay Portal server installation
+liferay_bundle_tomcat_version: 7.3.4
